@@ -1,5 +1,6 @@
 ---
 layout: default
+subnav: fmics
 ---
  
 # FMICS 2026!

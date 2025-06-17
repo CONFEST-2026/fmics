@@ -1,9 +1,8 @@
 ---
 layout: default
+subnav: fmics
 ---
 
-# FMICS
+FMICS 2026:
 
-## Call for Papers
-
-We want papers...
+Here is the cfp
