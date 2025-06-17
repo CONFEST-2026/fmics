@@ -1,17 +1,17 @@
-name: Trigger Sync in repo-1
+name: Trigger main site rebuild
 
 on:
   push:
-    branches:
-      - main  # or whichever branch you want to track for changes in repo-2
+    branches: [main]
 
 jobs:
-  trigger-sync:
+  trigger:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Trigger sync in repo-1
-      run: |
-        curl -X POST https://api.github.com/repos/CONFEST-2026/confest-2026.github.io/dispatches \
-          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          -d '{"event_type": "sync-fmics"}'
+      - name: Dispatch rebuild to main site
+        run: |
+          curl -X POST https://api.github.com/repos/CONFEST-2026/confest-2026.github.io/dispatches \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            -d '{"event_type":"rebuild-from-fmics"}'
