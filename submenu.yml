@@ -1,5 +1,5 @@
 submenu:
-- name: FMICS home
+- name: Info
   relative_url: /fmics
 - name: Call for papers
   relative_url: /fmics/call-for-papers
