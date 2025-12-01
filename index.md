@@ -18,12 +18,12 @@ FMICS is the **ERCIM** Working Group conference on Formal Methods for Industrial
 - *Conference:*      2 -- 4 September, 2026
 - *Workshops:*       5 September, 2026
 
-##### Keynote Speakers:
+##### Keynote Speakers
 
 - [Colin O’Halloran][COH], D-RisQ, UK 
 - [Julia Badger][JB], NASA Johnson Space Center, USA
 
-##### PC Chairs:
+##### PC Chairs
 
 - [Kristin Yvonne Rozier][KYR], Iowa State University, USA
 - [Peter Gorm Larsen][PGL], Aarhus University, Denmark
