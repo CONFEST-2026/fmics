@@ -20,15 +20,15 @@ FMICS is the **ERCIM** Working Group conference on Formal Methods for Industrial
 
 ##### Keynote Speakers:
 
-Colin O’Halloran, D-RisQ 
-
-Julia Badger, NASA Johnson Space Center
+- [Colin O’Halloran][COH], D-RisQ 
+- [Julia Badger][JB]Julia Badger, NASA Johnson Space Center
 
 ##### PC Chairs:
 
-[Kristin Yvonne Rozier][KYR], Iowa State University, USA
-
-[Peter Gorm Larsen][PGL], Aarhus University, Denmark
+- [Kristin Yvonne Rozier][KYR], Iowa State University, USA
+- [Peter Gorm Larsen][PGL], Aarhus University, Denmark
 
 [KYR]: https://www.aere.iastate.edu/kyrozier/
 [PGL]: https://pure.au.dk/portal/en/persons/pgl@ece.au.dk
+[COH]: https://www.cs.ox.ac.uk/people/colin.ohalloran/
+[JB]: https://www.education.ox.ac.uk/person/julia-badger/
