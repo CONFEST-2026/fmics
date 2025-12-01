@@ -21,7 +21,7 @@ FMICS is the **ERCIM** Working Group conference on Formal Methods for Industrial
 ##### Keynote Speakers:
 
 - [Colin O’Halloran][COH], D-RisQ 
-- [Julia Badger][JB]Julia Badger, NASA Johnson Space Center
+- [Julia Badger][JB], NASA Johnson Space Center
 
 ##### PC Chairs:
 
