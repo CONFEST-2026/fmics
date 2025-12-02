@@ -30,5 +30,5 @@ FMICS is the **ERCIM** Working Group conference on Formal Methods for Industrial
 
 [KYR]: https://www.aere.iastate.edu/kyrozier/
 [PGL]: https://pure.au.dk/portal/en/persons/pgl@ece.au.dk
-[COH]: https://www.cs.ox.ac.uk/people/colin.ohalloran/
+[COH]: https://www.drisq.com/about
 [JB]: https://www.education.ox.ac.uk/person/julia-badger/
