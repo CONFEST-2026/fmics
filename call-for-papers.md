@@ -18,11 +18,11 @@ FMICS is the ERCIM Working Group conference on Formal Methods for Industrial Cri
 
 ### Topics of Interest:
 We encourage submissions on cross-cutting approaches that bring together formal methods and industrial applications.
-  - Formal specification, including specification elicitation, validation, debugging, sanity checking, revision, coverage, and explainability. 
-  - Case studies and experience reports on industrial applications of formal methods, focusing on lessons learned or identification of new research directions. 
-  - Methods, techniques, and tools to support automated analysis, certification, debugging, learning, optimization, and transformation of complex, distributed, real-time, embedded, mobile, and autonomous systems.
-  - Verification and validation methods (model checking, theorem proving, SAT/SMT constraint solving, abstract interpretation, etc.) that address shortcomings of existing methods with respect to their industrial applicability (e.g., scalability and usability issues, tool qualification, and certification).
-  - Transfer to industry and impact of adoption of formal methods on the development process and associated costs in industry. Application of formal methods in standardization and industrial forums.
+ - Formal specification, including specification elicitation, validation, debugging, sanity checking, revision, coverage, and explainability. 
+ - Case studies and experience reports on industrial applications of formal methods, focusing on lessons learned or identification of new research directions. 
+ - Methods, techniques, and tools to support automated analysis, certification, debugging, learning, optimization, and transformation of complex, distributed, real-time, embedded, mobile, and autonomous systems.
+ - Verification and validation methods (model checking, theorem proving, SAT/SMT constraint solving, abstract interpretation, etc.) that address shortcomings of existing methods with respect to their industrial applicability (e.g., scalability and usability issues, tool qualification, and certification).
+ - Transfer to industry and impact of adoption of formal methods on the development process and associated costs in industry. Application of formal methods in standardization and industrial forums.
     
 
 ### Important Dates:
