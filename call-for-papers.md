@@ -3,9 +3,13 @@ layout: default
 subnav: fmics
 ---
 
-## Formal Methods for Industrial Critical Systems (FMICS) 31st International Conference, co-located with CONFEST
-
 ## Call for papers
+Formal Methods for Industrial Critical Systems (FMICS) 31st International Conference, co-located with CONFEST
+
+2 - 4 September 2026                   
+
+University of Liverpool, Liverpool, UK       
+
 
 
 ### Theme of the Conference:
@@ -38,7 +42,7 @@ Submissions should clearly motivate relevance to industrial applications. Case s
 
 Papers should not exceed 15 pages (excluding references) formatted according to the Springer author guidelines LNCS style. Any appendices (beyond the above page limit) might not be considered in the review process. All submissions will be reviewed by at least three members of the Programme Committee, which will make a selection among the submissions based on the novelty, soundness, and applicability of the presented ideas and results. Papers must be written in English and submitted in PDF format at the EasyChair submission site:
 
-https://easychair.org/conferences?conf=fmics2026
+[https://easychair.org/conferences?conf=fmics2026](https://easychair.org/conferences?conf=fmics2026)
 
 For all papers with experimental results, we strongly recommend providing reviewers with an artifact that they can use to reproduce results, e.g., via a paper website. 
 
