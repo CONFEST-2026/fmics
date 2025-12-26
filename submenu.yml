@@ -2,5 +2,4 @@ submenu:
 - name: Home
   relative_url: /fmics
 - name: Call for papers
-  disabled: true
   relative_url: /fmics/call-for-papers
