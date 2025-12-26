@@ -5,15 +5,16 @@ subnav: fmics
 
 ## Formal Methods for Industrial Critical Systems (FMICS) 31st International Conference, co-located with CONFEST
 
+## Call for papers
 
 
-## Theme of the Conference:
+### Theme of the Conference:
 The aim of the FMICS conference series is to provide a forum for researchers an practitioners who are interested in the development and application of formal methods in industry. FMICS brings together scientists and engineers who are active in the area of formal methods and interested in exchanging their experiences in the industrial usage of these methods. The FMICS conference series also strives to promote research and development for the improvement of formal methods and tools for industrial applications. 
 
 FMICS is the ERCIM Working Group conference on Formal Methods for Industrial Critical Systems, and it is the key conference in the intersection of industrial applications and Formal Methods. 
 
 
-## Topics of Interest:
+### Topics of Interest:
 We encourage submissions on cross-cutting approaches that bring together formal methods and industrial applications.
     * Formal specification, including specification elicitation, validation, debugging, sanity checking, revision, coverage, and explainability. 
     * Case studies and experience reports on industrial applications of formal methods, focusing on lessons learned or identification of new research directions. 
@@ -22,15 +23,15 @@ We encourage submissions on cross-cutting approaches that bring together formal 
     * Transfer to industry and impact of adoption of formal methods on the development process and associated costs in industry. Application of formal methods in standardization and industrial forums.
     
 
-## Important Dates:
-Abstract Submission: 10 Apr 2026
-Paper Submission:    17 Apr 2026
-Paper Notifications:  1 Jun 2026
-Camera-ready Papers: 15 Jun 2026
-Conference:         2-4 Sep 2026
+### Important Dates:
+ - Abstract Submission: 10 Apr 2026
+ - Paper Submission:    17 Apr 2026
+ - Paper Notifications:  1 Jun 2026
+ - Camera-ready Papers: 15 Jun 2026
+ - Conference:         2-4 Sep 2026
 
 
-## Submission Details:
+### Submission Details:
 Papers must describe original research work and results. Submitted papers must not have previously appeared in a journal or conference with published proceedings and must not be concurrently submitted to any other peer-reviewed workshop, symposium, conference, or archival journal. Any partial overlap with any such published or concurrently submitted paper must be clearly indicated.
 
 Submissions should clearly motivate relevance to industrial applications. Case study papers should identify lessons learned, validate theoretical results (such as scalability of methods), and provide specific motivation for further research and development.
@@ -42,37 +43,37 @@ https://easychair.org/conferences?conf=fmics2026
 For all papers with experimental results, we strongly recommend providing reviewers with an artifact that they can use to reproduce results, e.g., via a paper website. 
 
 
-## Keynote Speakers:
-Julia Badger, NASA Johnson Space Center
-Colin O’Halloran, D-RisQ
+### Keynote Speakers:
+ - Julia Badger, NASA Johnson Space Center
+ - Colin O’Halloran, D-RisQ
 
 
-## Organizers:
-Peter Gorm Larsen (Aarhus University, Denmark)
-Kristin Yvonne Rozier (Iowa State University, USA)
+### Organizers:
+ - Peter Gorm Larsen (Aarhus University, Denmark)
+ - Kristin Yvonne Rozier (Iowa State University, USA)
 
 
-## Programme Committee:
-Jefferson Andrade, Instituto Federal do Espírito Santo
-Ramesh Bharadwaj, U.S. Navy
-John Fitzgerald, Newcastle University
-John Hatcliff, Kansas State University
-Joseph Kiniry, Galois, Inc.
-Tsutomu Kobayashi, Japan Aerospace Exploration Agency (JAXA)
-Tiziana Margaria, University of Limerick
-Mieke Massink, CNR-ISTI, Pisa, Italy
-Stephan Merz, INRIA Nancy
-Stefan Mitsch, DePaul University
-Rosemary Monahan, Maynooth University
-Tomohiro Oda, Software Research Associates, Inc.
-Claudio Pinello, Collins Aerospace
-Anne Remke, WWU Münster
-Cristina Seceleanu, Mälardalen University
-Martina Seidl, Johannes Kepler University Linz
-Giulia Sindoni, University of Leeds
-Laura Titolo, Code Metal
-Christoph Torens, German Aerospace Center, Institute of Flight Systems
-Jaco van de Pol, Aarhus University and University of Twente
-Marcel Verhoef, European Space Agency
-Virginie Wiels, ONERA / DTIS
-Anton Wijs, Eindhoven University of Technology
+### Programme Committee:
+ - Jefferson Andrade, Instituto Federal do Espírito Santo
+ - Ramesh Bharadwaj, U.S. Navy
+ - John Fitzgerald, Newcastle University
+ - John Hatcliff, Kansas State University
+ - Joseph Kiniry, Galois, Inc.
+ - Tsutomu Kobayashi, Japan Aerospace Exploration Agency (JAXA)
+ - Tiziana Margaria, University of Limerick
+ - Mieke Massink, CNR-ISTI, Pisa, Italy
+ - Stephan Merz, INRIA Nancy
+ - Stefan Mitsch, DePaul University
+ - Rosemary Monahan, Maynooth University
+ - Tomohiro Oda, Software Research Associates, Inc.
+ - Claudio Pinello, Collins Aerospace
+ - Anne Remke, WWU Münster
+ - Cristina Seceleanu, Mälardalen University
+ - Martina Seidl, Johannes Kepler University Linz
+ - Giulia Sindoni, University of Leeds
+ - Laura Titolo, Code Metal
+ - Christoph Torens, German Aerospace Center, Institute of Flight Systems
+ - Jaco van de Pol, Aarhus University and University of Twente
+ - Marcel Verhoef, European Space Agency
+ - Virginie Wiels, ONERA / DTIS
+ - Anton Wijs, Eindhoven University of Technology
