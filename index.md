@@ -9,6 +9,13 @@ The aim of the **FMICS** conference series is to provide a forum for researchers
 
 FMICS is the [**ERCIM** Working Group][ERCIM] conference on Formal Methods for Industrial Critical Systems, and it is the key conference in the intersection of industrial applications and Formal Methods.
 
+
+##### Awards
+
+
+Following FMICS tradition, the paper with the best contributions to Software Science and Technology will be honoured with the EASST ERCIM award.
+
+
 ##### Important dates
 
 - *Abstracts:*       10 April, 2026

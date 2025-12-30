@@ -44,6 +44,8 @@ Papers should not exceed 15 pages (excluding references) formatted according to 
 
 For all papers with experimental results, we strongly recommend providing reviewers with an artifact that they can use to reproduce results, e.g., via a paper website. 
 
+Following FMICS tradition, the paper with the best contributions to Software Science and Technology will be honoured with the EASST ERCIM award.
+
 
 ### Keynote Speakers:
  - Julia Badger, NASA Johnson Space Center
