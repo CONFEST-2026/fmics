@@ -1,5 +1,7 @@
 submenu:
 - name: Home
   relative_url: /fmics
+- name: Committees
+  relative_url: /fmics/committees
 - name: Call for papers
   relative_url: /fmics/call-for-papers
