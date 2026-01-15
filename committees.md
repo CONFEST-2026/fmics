@@ -3,7 +3,7 @@ layout: default
 subnav: fmics
 ---
 
-##### PC Chairs
+## Program Committee Chairs
 
 - [Kristin Yvonne Rozier][KYR], Iowa State University, USA
 - [Peter Gorm Larsen][PGL], Aarhus University, Denmark
