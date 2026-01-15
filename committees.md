@@ -36,5 +36,14 @@ subnav: fmics
 - Anton Wijs, Eindhoven University of Technology
 - Naijun Zhan, Institute of Software, Chinese Academy of Sciences
 
+## Steering Committee
+
+- Maurice ter Beek (ISTI-CNR, IT)
+- Alessandro Fantechi (University of Florence, IT)
+- Hubert Garavel (INRIA, FR)
+- Tiziana Margaria (University of Limerick and LERO, IE)
+- Radu Mateescu (INRIA, FR)
+- Jaco van de Pol (Aarhus University, DK)
+  
 [KYR]: https://www.aere.iastate.edu/kyrozier/
 [PGL]: https://pure.au.dk/portal/en/persons/pgl@ece.au.dk
