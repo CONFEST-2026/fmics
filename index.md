@@ -30,13 +30,6 @@ Following FMICS tradition, the paper with the best contributions to Software Sci
 - [Colin O’Halloran][COH], D-RisQ, UK 
 - [Julia Badger][JB], NASA Johnson Space Center, USA
 
-##### PC Chairs
-
-- [Kristin Yvonne Rozier][KYR], Iowa State University, USA
-- [Peter Gorm Larsen][PGL], Aarhus University, Denmark
-
-[KYR]: https://www.aere.iastate.edu/kyrozier/
-[PGL]: https://pure.au.dk/portal/en/persons/pgl@ece.au.dk
 [COH]: https://www.drisq.com/about
 [JB]: https://www.nasa.gov/johnson/
 [ERCIM]: https://fmics.inria.fr/
