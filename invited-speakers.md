@@ -3,7 +3,7 @@ layout: default
 subnav: fmics
 ---
 
-# FMICS 2026 - Invited Speakers
+## FMICS 2026 - Invited Speakers
 
 ---
 
