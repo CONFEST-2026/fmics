@@ -8,13 +8,12 @@ subnav: fmics
 ---
 
 ### Colin O'Halloran
+
+[<img align="right" width="300px" src="/assets/images/invited-fmics-co.png">](/assets/images/invited-fmics-co.png)
+
 Honourary Visiting Professor at the University of York, UK
 
 CTO of D-RiSQ Ltd, UK
-
-
-[<img align="right" width="200px" src="/assets/images/invited-fmics-co.png">](/assets/images/invited-fmics-co.png)
-
 
 ### Reducing Time to Market through Formal Methods
 
@@ -26,6 +25,9 @@ Colin has been CTO of D-RiSQ Ltd that have developed automated formal methods ba
 ---
 
 ### Julia Badger
+
+[<img align="right" width="300px" src="/assets/images/invited-fmics-jb.jpg">](/assets/images/invited-fmics-jb.jpg)
+
 NASA Johnson Space Center, USA
 
 ### Application of Formal Methods to Design and Verification of Autonomous Space Systems
