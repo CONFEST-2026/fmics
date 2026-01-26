@@ -7,7 +7,7 @@ subnav: fmics
 
 ---
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:40px 0;">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:40px 20px;">
 
 <h3>Colin O'Halloran</h3>
 
@@ -31,13 +31,13 @@ Colin has been CTO of D-RiSQ Ltd that have developed automated formal methods ba
 
 ---
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:40px 0; margin-top:30px">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:40px 20px">
 
 <h3>Julia Badger</h3>
 
 NASA Johnson Space Center, USA<br/><br/>
 
-<h3>Application of Formal Methods to Design and Verification of Autonomous Space Systems</h3>
+<h3>Application of Formal Methods to Design and Verification<br/> of Autonomous Space Systems</h3>
 
 <p><a href="/assets/images/invited-fmics-jb.jpg">
   <img src="/assets/images/invited-fmics-jb.jpg" alt="Julia Badger" style="float:right;width:280px">
