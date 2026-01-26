@@ -11,7 +11,7 @@ subnav: fmics
 
 <h3>Colin O'Halloran</h3>
 
-Honourary Visiting Professor at the University of York, UK<br/><br/>
+Honourary Visiting Professor at the University of York, UK<br/>
 
 CTO of D-RiSQ Ltd, UK<br/><br/>
 
