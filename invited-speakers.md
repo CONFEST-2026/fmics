@@ -7,6 +7,8 @@ subnav: fmics
 
 ---
 
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+
 ### Colin O'Halloran
 
 Honourary Visiting Professor at the University of York, UK
@@ -22,7 +24,11 @@ Model Based Software Engineering (MBSE) integrates simulation, automation, and t
 Colin has over 40 years of experience in high integrity systems, operating as a scientist, consultant and business group manager with RSRE, DERA and QinetiQ. He is an honourary Visiting Professor at the University of York and was previously a full professor of computer science at the University of Oxford. Colin is an internationally recognised expert in the validation and verification of software-based systems using formal methods. At RSRE he developed parts of the MALPAS analysis tool that was used in the assessment of the secondary protection system of the Sizewell B nuclear power station. Within DERA he was the technical authority for the development of the formal semantics of SPARK 83 carried out by PVL Ltd. Within QinetiQ he led the team that developed tools to mathematically verify the flight and engine control software for the Typhoon aircraft as well as the Auto-throttle and Auto-pilot. In 1996 he served on the European Space Agency’s Board of Inquiry into the very first launch of Ariane 5 and compiled those parts of the report concerning the software’s contribution to the failure. He carried out a survey of certification approaches on behalf of the Director of Helicopter projects following the Chinook crash on the Mull of Kintyre. Since 2012
 Colin has been CTO of D-RiSQ Ltd that have developed automated formal methods based mathematical tools covering requirements capture and design verification, backed up by source code and object code verification.
 
+</div>
+
 ---
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
 
 ### Julia Badger
 
@@ -33,3 +39,5 @@ NASA Johnson Space Center, USA
 [<img align="right" width="300px" src="/assets/images/invited-fmics-jb.jpg">](/assets/images/invited-fmics-jb.jpg)
 
 As NASA's Artemis Program accelerates towards the Moon, the consideration of technologies needed for Martian exploration remains at the forefront.  One significant technology gap is the ability to autonomously control complex, safety-critical, integrated spacecraft systems across the operational range of the vehicle and mission.  The Gateway lunar space station has focused on autonomous spacecraft control as a major operational goal with the addition of a new software distributed hierarchical control architecture.  This novel functionality depends strongly on correct behavior at every level of the architecture, and verification of this new system will require special consideration.  Typical spacecraft testing campaigns rely on using similar hardware and software to run through mission use cases  and limited edge cases.  Given the distributed and autonomous nature of the Gateway software control system, alternative approaches are being explored to buy down risk in design, verification, and operation.  For example, assume guarantee contracts were built into the design and will be used as part of spacecraft verification.  Likewise, model checking will be leveraged during the operation of the autonomous spacecraft to understand spacecraft behavior given ground direction and commands.  This talk will discuss the design, architecture, and plans for formal methods analysis of the Gateway.
+
+</div>
