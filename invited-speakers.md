@@ -9,7 +9,7 @@ subnav: fmics
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
 
-### Colin O'Halloran
+<h3>Colin O'Halloran</h3>
 
 Honourary Visiting Professor at the University of York, UK
 
