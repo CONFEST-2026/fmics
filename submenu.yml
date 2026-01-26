@@ -1,7 +1,9 @@
 submenu:
 - name: Home
   relative_url: /fmics
-- name: Committees
-  relative_url: /fmics/committees
+- name: Invited Speakers
+  relative_url: /fmics/invited-speakers
 - name: Call for papers
   relative_url: /fmics/call-for-papers
+- name: Committees
+  relative_url: /fmics/committees
