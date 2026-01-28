@@ -27,8 +27,11 @@ Following FMICS tradition, the paper with the best contributions to Software Sci
 
 ##### Keynote Speakers
 
-- [Colin O’Halloran][COH], D-RisQ, UK 
 - [Julia Badger][JB], NASA Johnson Space Center, USA
+- [Ezio Bartocci](https://informatics.tuwien.ac.at/people/ezio-bartocci), TU Wien, Austria (Shared CONFEST Keynote)
+- [Ichiro Hasuo](https://group-mmm.org/~ichiro/), National Institute of Informatics, Japan (Shared CONFEST Keynote)
+- [Colin O’Halloran][COH], D-RisQ, UK 
+
 
 [COH]: https://www.drisq.com/about
 [JB]: https://www.nasa.gov/johnson/
