@@ -61,9 +61,11 @@ As NASA's Artemis Program accelerates towards the Moon, the consideration of tec
 
 Professor at the National Institute of Informatics (NII), Tokyo, Japan<br/>
 
-<p><a href="/assets/images/invited-ih.jpg">
-  <img src="/assets/images/invited-ih.jpg" alt="Ichiro Hasuo" style="float:right; padding:0 10px; width:285px">
+<p><a href="/assets/images/invited-IH.jpg">
+  <img src="/assets/images/invited-IH.jpg" alt="Ichiro Hasuo" style="float:right; padding:0 10px; width:285px">
 </a>
+
+<h3>Bio</h3>
 
 Ichiro Hasuo, Ph.D., is a Professor at National Institute of Informatics (NII), Tokyo, Japan. He is, at the same time, a founder and Chief Scientific Officer of the university startup Imiron Co., Ltd. He received PhD in computer science (cum laude) from Radboud University Nijmegen in 2008, supervized by Prof.Dr. Bart Jacobs. Before the current positions, he held positions at RIMS, Kyoto University, and Dept. Computer Science, the University of Tokyo. He is a recipient of multiple paper awards (CONCUR'12, ICECCS'18, CAV'23, ICTAC'24, ATVA'25), and prestigious research grants (JST ERATO and ASPIRE). His interests are in the theory and practice of software: in particular, in categorical foundations of formal verification, and model-less ``light-weight'' formal methods for cyber-physical systems.
 </p>
@@ -76,11 +78,13 @@ Ichiro Hasuo, Ph.D., is a Professor at National Institute of Informatics (NII), 
 
 <h3>Ezio Bartocci</h3>
 
-Professor at TU Wien, Austria<br/>
+Professor at TU Wien, Vienna, Austria<br/>
 
-<p><a href="/assets/images/invited-eb.jpg">
-  <img src="/assets/images/invited-eb.jpg" alt="Ezio Bartocci" style="float:right; padding:0 10px; width:285px">
+<p><a href="/assets/images/invited-eb.png">
+  <img src="/assets/images/invited-eb.png" alt="Ezio Bartocci" style="float:right; padding:0 10px; width:285px">
 </a>
+
+<h3>Bio</h3>
 
 Ezio Bartocci is a Full Professor at TU Wien and his work lies at the intersection of formal methods, quantitative reasoning, and AI-driven cyber-physical systems. He leads the Trustworthy Cyber-Physical Systems (TrustCPS) Research Group (https://trustcps.eu), where his research seeks to reconcile learning, autonomy, and uncertainty with formal methods, enabling cyber-physical systems that are not only intelligent, but also provably safe, energy-aware, and sustainable.
 
