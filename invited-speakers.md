@@ -80,8 +80,8 @@ Ichiro Hasuo, Ph.D., is a Professor at National Institute of Informatics (NII), 
 
 Professor at TU Wien, Vienna, Austria<br/>
 
-<p><a href="/assets/images/invited-EB.png">
-  <img src="/assets/images/invited-EB.png" alt="Ezio Bartocci" style="float:right; padding:0 10px; width:285px">
+<p><a href="/assets/images/in‌vited-eb.png">
+  <img src="/assets/images/in‌vited-eb.png" alt="Ezio Bartocci" style="float:right; padding:0 10px; width:285px">
 </a>
 
 <h3>Bio</h3>
