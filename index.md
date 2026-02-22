@@ -33,7 +33,8 @@ Following FMICS tradition, the paper with the best contributions to Software Sci
 - [Colin O’Halloran][COH], D-RisQ, UK 
 
 ##### Contact
-FMICS 2026 is organized by [Kristin Yvonne Rozier][KYR] and [Peter Gorm Larsen][PGL] (contact: fmics2026(at)easychair.org)
+
+FMICS 2026 PC chairs: [Kristin Yvonne Rozier][KYR] and [Peter Gorm Larsen][PGL] (contact: fmics2026(at)easychair.org)
 
 [COH]: https://www.drisq.com/about
 [JB]: https://www.nasa.gov/johnson/
