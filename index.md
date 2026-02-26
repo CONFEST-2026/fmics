@@ -32,9 +32,7 @@ Following FMICS tradition, the paper with the best contributions to Software Sci
 - [Ichiro Hasuo](https://group-mmm.org/~ichiro/), National Institute of Informatics, Japan (Shared CONFEST Keynote)
 - [Colin O’Halloran][COH], D-RisQ, UK 
 
-##### Contact
-
-FMICS 2026 PC chairs: [Kristin Yvonne Rozier][KYR] and [Peter Gorm Larsen][PGL] (contact: fmics2026(at)easychair.org)
+For questions please contact the PC chairs via <mailto://fmics2026@easychair.org>.
 
 [COH]: https://www.drisq.com/about
 [JB]: https://www.nasa.gov/johnson/
