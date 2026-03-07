@@ -14,8 +14,8 @@ subnav: fmics
     <h3>{{ speaker.first_name }} {{ speaker.last_name }}</h3>
     {{ speaker.affiliation }}<br/><br/>      
     {% if speaker.atitle %}<h3>{{ speaker.atitle }}</h3>{% endif %}
-    <p><a href="{{ "/assets/images/" | relative_url }}{{ speaker.img }}">
-      <img src="{{ "/assets/images/" | relative_url }}{{ speaker.img }}" alt="{{ speaker.full_name: }}" style="float:right; padding:0 10px; width:30%">
+    <p><a href="{{ "/assets/images/" | relative_url }}{{ speaker.img }}.webp">
+      <img src="{{ "/assets/images/" | relative_url }}{{ speaker.img }}.webp" alt="{{ speaker.full_name: }}" style="float:right; padding:0 10px; width:30%">
     </a>
     {% if speaker.abstract %}{{ speaker.abstract }}{% endif %}
     {% if speaker.bio %}<h3>Bio</h3>{% endif %}
@@ -38,8 +38,8 @@ subnav: fmics
     <h3>{{ speaker.first_name }} {{ speaker.last_name }}</h3>
     {{ speaker.affiliation }}<br/>      
     {% if speaker.atitle %}<h3>{{ speaker.atitle }}</h3>{% endif %}
-    <p><a href="{{ "/assets/images/" | relative_url }}{{ speaker.img }}">
-      <img src="{{ "/assets/images/" | relative_url }}{{ speaker.img }}" alt="{{ speaker.full_name: }}" style="float:right; padding:0 10px; width:30%">
+    <p><a href="{{ "/assets/images/" | relative_url }}{{ speaker.img }}.webp">
+      <img src="{{ "/assets/images/" | relative_url }}{{ speaker.img }}.webp" alt="{{ speaker.full_name: }}" style="float:right; padding:0 10px; width:30%">
     </a>
     {% if speaker.abstract %}{{ speaker.abstract }}{% endif %}
     <h3>Bio</h3>
