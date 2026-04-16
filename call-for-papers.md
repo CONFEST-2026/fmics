@@ -27,7 +27,7 @@ We encourage submissions on cross-cutting approaches that bring together formal 
 
 ### Important Dates:
  - Abstract Submission: 10 Apr 2026
- - Paper Submission:    17 Apr 2026
+ - Paper Submission:    ~~17 April, 2026~~ 1 May, 2026
  - Paper Notifications:  1 Jun 2026
  - Camera-ready Papers: 15 Jun 2026
  - Conference:         2-4 Sep 2026
