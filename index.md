@@ -34,7 +34,7 @@ FMICS is the [**ERCIM** Working Group][ERCIM] conference on Formal Methods for I
 
 ##### FMICS Invited Speakers
 
-{% assign speakers_concur = site.speakers | where: "conference", "CONCUR" %}
+{% assign speakers_concur = site.speakers | where: "conference", "FMICS" %}
 {% assign speakers_all = site.speakers | where: "conference", "all" %}
 
 {% assign speakers = speakers_concur | concat: speakers_all 
