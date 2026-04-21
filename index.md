@@ -29,7 +29,7 @@ FMICS is the [**ERCIM** Working Group][ERCIM] conference on Formal Methods for I
 
 
 
-
+---
 
 
 ##### FMICS Invited Speakers
@@ -65,7 +65,7 @@ FMICS is the [**ERCIM** Working Group][ERCIM] conference on Formal Methods for I
   {% endfor %}
 </div>
 
-
+---
 
 ##### Awards
 
