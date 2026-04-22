@@ -42,7 +42,7 @@ FMICS is the [**ERCIM** Working Group][ERCIM] conference on Formal Methods for I
   | sort_natural: "last_name" %}
 
 
-<div class="card-deck">
+<div class="card-deck mt-4">
   {% for speaker in speakers %}
       {% assign website = speaker.links | first %}
     <div class="card">
@@ -71,6 +71,11 @@ FMICS is the [**ERCIM** Working Group][ERCIM] conference on Formal Methods for I
 
 
 Following FMICS tradition, the paper with the best contributions to Software Science and Technology will be honoured with the EASST ERCIM award.
+
+---
+
+
+##### Contact
 
 
 For questions please contact the PC chairs via <mailto:fmics2026@easychair.org>.
