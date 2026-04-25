@@ -1,4 +1,5 @@
 ---
+title: FMICS Call for Papers
 layout: default
 subnav: fmics
 ---

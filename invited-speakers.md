@@ -1,4 +1,5 @@
 ---
+title: FMICS Invited Speakers
 layout: default
 subnav: fmics
 ---

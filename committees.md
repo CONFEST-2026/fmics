@@ -1,4 +1,5 @@
 ---
+title: FMICS Committees
 layout: default
 subnav: fmics
 ---
