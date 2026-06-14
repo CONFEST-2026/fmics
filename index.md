@@ -29,7 +29,7 @@ Following FMICS tradition, the paper with the best contributions to Software Sci
 - *Submissions:*     ~~17 April, 2026~~ 1 May, 2026
 - *Notification:*    1 June, 2026
 - *Camera Ready:*    15 June, 2026
-- *Conference:*      2 -- 4 September, 2026
+- *Conference:*      3 -- 4 September, 2026
 - *Workshops:*       5 September, 2026
 </div>
 </div>
