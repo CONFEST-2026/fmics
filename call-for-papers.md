@@ -6,7 +6,7 @@ subnav: fmics
 
 ## Call for papers
 Formal Methods for Industrial Critical Systems (FMICS) 31st International Conference, co-located with CONFEST  
-2 - 4 September 2026  
+3 - 4 September 2026  
 University of Liverpool, Liverpool, UK
 
 
@@ -31,7 +31,7 @@ We encourage submissions on cross-cutting approaches that bring together formal 
  - Paper Submission:    ~~17 April, 2026~~ 1 May, 2026
  - Paper Notifications:  1 June, 2026
  - Camera-ready Papers: 15 June, 2026
- - Conference:         2-4 September, 2026
+ - Conference:         3-4 September, 2026
 
 
 ### Submission Details:
