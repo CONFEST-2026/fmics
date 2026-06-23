@@ -1,7 +1,7 @@
 ---
 title: Accepted Papers
 layout: default
-subnav: concur
+subnav: fmics
 ---
 
 # {{page.title}}
