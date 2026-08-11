@@ -9,5 +9,5 @@ submenu:
   relative_url: /fmics/invited-speakers
 - name: Accepted Papers
   relative_url: /fmics/accepted-papers
-- name: Schedule
+- name: Program
   relative_url: /program/fmics/

@@ -40,7 +40,7 @@ Following FMICS tradition, the paper with the best contributions to Software Sci
 ---
 
 
-##### FMICS Invited Speakers
+### Invited Speakers
 
 {% assign speakers_concur = site.speakers | where: "conference", "FMICS" %}
 {% assign speakers_all = site.speakers | where: "conference", "all" %}
@@ -75,7 +75,7 @@ Following FMICS tradition, the paper with the best contributions to Software Sci
 
 ---
 
-##### Contact
+### Contact
 
 
 For questions please contact the PC chairs via <mailto:fmics2026@easychair.org>.

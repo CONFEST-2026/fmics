@@ -4,7 +4,7 @@ layout: default
 subnav: fmics
 ---
 
-## Invited Speakers FMICS
+### Invited Speakers FMICS
 
 {% assign speakers = site.speakers | sort_natural: 'last_name' %}
 
@@ -28,7 +28,7 @@ subnav: fmics
 
 ---
 
-## Joint CONFEST Invited Speakers 
+### Joint CONFEST Invited Speakers 
 
 {% assign speakers = site.speakers | sort_natural: 'last_name' %}
 

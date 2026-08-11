@@ -1,15 +1,17 @@
 ---
-title: FMICS Committees
+title: Committees
 layout: default
 subnav: fmics
 ---
 
-## Program Committee Chairs
+# {{page.title}}
+
+### Program Committee Chairs
 
 - [Kristin Yvonne Rozier][KYR], Iowa State University, USA
 - [Peter Gorm Larsen][PGL], Aarhus University, Denmark
 
-## Program Committee
+### Program Committee
 
 - Jefferson Andrade, Instituto Federal do Espírito Santo, Brazil
 - Ramesh Bharadwaj, U.S. Navy, USA
@@ -37,7 +39,7 @@ subnav: fmics
 - Anton Wijs, Eindhoven University of Technology, Netherlands
 - Naijun Zhan, Institute of Software, Chinese Academy of Sciences, China
 
-## Steering Committee
+### Steering Committee
 
 - Maurice ter Beek, ISTI-CNR, Italy
 - Alessandro Fantechi, University of Florence, Italy
