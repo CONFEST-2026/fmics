@@ -23,6 +23,10 @@ Following FMICS tradition, the paper with the best contributions to Software Sci
 
 </div>
 <div class="card" markdown=1 >
+##### Proceedings
+Access the proceedings here: 
+ [Springer FMICS Proceedings](https://link.springer.com/book/9783032368485)
+
 ##### Important dates
 
 - *Abstracts:*       ~~10 April, 2026~~ 24 April, 2026
