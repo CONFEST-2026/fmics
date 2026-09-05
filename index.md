@@ -18,7 +18,7 @@ FMICS is the [**ERCIM** Working Group][ERCIM] conference on Formal Methods for I
 ##### Awards
 
 
-Following FMICS tradition, the paper with the best contributions to Software Science and Technology will be honoured with the EASST ERCIM award.
+Following FMICS tradition, the paper with the best contributions to Software Science and Technology will be honoured with the <a href="/fmics/accepted-papers">EASST ERCIM award</a>.
 
 
 </div>
