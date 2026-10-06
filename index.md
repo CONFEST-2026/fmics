@@ -15,6 +15,8 @@ The aim of the **FMICS** conference series is to provide a forum for researchers
 
 FMICS is the [**ERCIM** Working Group][ERCIM] conference on Formal Methods for Industrial Critical Systems, and it is the key conference in the intersection of industrial applications and Formal Methods.
 
+<span style="color:red">The proceedings are now available.</span>
+
 ##### Awards
 
 
@@ -25,7 +27,7 @@ Following FMICS tradition, the paper with the best contributions to Software Sci
 <div class="card" markdown=1 >
 ##### Proceedings
 Access the proceedings here: 
- [Springer FMICS Proceedings](https://link.springer.com/book/9783032368485)
+ [Springer FMICS Proceedings](https://link.springer.com/book/9783032368485) <span style="color:red">Now live</span>
 
 ##### Important dates
 
